@@ -12,13 +12,6 @@ https://reactjs-ecommerce-app.vercel.app/
 - Easy to integrate with Backend
 - Fully Responsive
 
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
-
-
-
 ## Run Locally
 
 Clone the project
@@ -54,14 +47,6 @@ Start the server
 * [Bootstrap](https://getbootstrap.com/)
 * [Fake Store API](https://fakestoreapi.com/)
 
-## Contributing
 
-Contributions are always welcome!
-Just raise an issue, we will discuss it.
-
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
 
 
